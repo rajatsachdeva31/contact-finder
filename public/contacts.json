@@ -1,0 +1,206 @@
+[
+  {
+    "id": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "dob": "1990-01-15",
+    "email": "john.doe@example.com",
+    "phone": "416-555-0123",
+    "street": "123 Maple Street",
+    "city": "Toronto",
+    "state": "ON",
+    "zipCode": "M5V 2T6"
+  },
+  {
+    "id": "2",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "dob": "1985-03-22",
+    "email": "jane.smith@example.com",
+    "phone": "604-555-0456",
+    "street": "456 Oak Avenue",
+    "city": "Vancouver",
+    "state": "BC",
+    "zipCode": "V6B 3K9"
+  },
+  {
+    "id": "3",
+    "firstName": "Robert",
+    "lastName": "Johnson",
+    "dob": "1988-07-30",
+    "email": "robert.johnson@example.com",
+    "phone": "514-555-0789",
+    "street": "789 Pine Boulevard",
+    "city": "Montreal",
+    "state": "QC",
+    "zipCode": "H2Y 1Z8"
+  },
+  {
+    "id": "4",
+    "firstName": "Marie",
+    "lastName": "Tremblay",
+    "dob": "1992-11-08",
+    "email": "marie.tremblay@example.com",
+    "phone": "403-555-0321",
+    "street": "321 Birch Road",
+    "city": "Calgary",
+    "state": "AB",
+    "zipCode": "T2P 2G8"
+  },
+  {
+    "id": "5",
+    "firstName": "William",
+    "lastName": "Brown",
+    "dob": "1983-09-14",
+    "email": "william.brown@example.com",
+    "phone": "902-555-0654",
+    "street": "654 Cedar Lane",
+    "city": "Halifax",
+    "state": "NS",
+    "zipCode": "B3H 2S7"
+  },
+  {
+    "id": "6",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "dob": "1992-03-03",
+    "email": "alice.johnson@example.com",
+    "phone": "345-678-9012"
+  },
+  {
+    "id": "7",
+    "firstName": "Bob",
+    "lastName": "Brown",
+    "dob": "1988-04-04",
+    "email": "bob.brown@example.com",
+    "phone": "456-789-0123"
+  },
+  {
+    "id": "8",
+    "firstName": "Charlie",
+    "lastName": "Davis",
+    "dob": "1995-05-05",
+    "email": "charlie.davis@example.com",
+    "phone": "567-890-1234"
+  },
+  {
+    "id": "9",
+    "firstName": "David",
+    "lastName": "Wilson",
+    "dob": "1980-06-06",
+    "email": "david.wilson@example.com",
+    "phone": "678-901-2345"
+  },
+  {
+    "id": "10",
+    "firstName": "Eva",
+    "lastName": "Garcia",
+    "dob": "1993-07-07",
+    "email": "eva.garcia@example.com",
+    "phone": "789-012-3456"
+  },
+  {
+    "id": "11",
+    "firstName": "Frank",
+    "lastName": "Martinez",
+    "dob": "1987-08-08",
+    "email": "frank.martinez@example.com",
+    "phone": "890-123-4567"
+  },
+  {
+    "id": "12",
+    "firstName": "Grace",
+    "lastName": "Hernandez",
+    "dob": "1991-09-09",
+    "email": "grace.hernandez@example.com",
+    "phone": "901-234-5678"
+  },
+  {
+    "id": "13",
+    "firstName": "Henry",
+    "lastName": "Lopez",
+    "dob": "1983-10-10",
+    "email": "henry.lopez@example.com",
+    "phone": "012-345-6789"
+  },
+  {
+    "id": "14",
+    "firstName": "Isabella",
+    "lastName": "Gonzalez",
+    "dob": "1994-11-11",
+    "email": "isabella.gonzalez@example.com",
+    "phone": "123-456-7891"
+  },
+  {
+    "id": "15",
+    "firstName": "Jack",
+    "lastName": "Wilson",
+    "dob": "1986-12-12",
+    "email": "jack.wilson@example.com",
+    "phone": "234-567-8902"
+  },
+  {
+    "id": "16",
+    "firstName": "Kathy",
+    "lastName": "Anderson",
+    "dob": "1992-01-13",
+    "email": "kathy.anderson@example.com",
+    "phone": "345-678-9013"
+  },
+  {
+    "id": "17",
+    "firstName": "Liam",
+    "lastName": "Thomas",
+    "dob": "1989-02-14",
+    "email": "liam.thomas@example.com",
+    "phone": "456-789-0124"
+  },
+  {
+    "id": "18",
+    "firstName": "Mia",
+    "lastName": "Taylor",
+    "dob": "1990-03-15",
+    "email": "mia.taylor@example.com",
+    "phone": "567-890-1235"
+  },
+  {
+    "id": "19",
+    "firstName": "Noah",
+    "lastName": "Moore",
+    "dob": "1984-04-16",
+    "email": "noah.moore@example.com",
+    "phone": "678-901-2346"
+  },
+  {
+    "id": "20",
+    "firstName": "Olivia",
+    "lastName": "Jackson",
+    "dob": "1993-05-17",
+    "email": "olivia.jackson@example.com",
+    "phone": "789-012-3457"
+  },
+  {
+    "id": "21",
+    "firstName": "Paul",
+    "lastName": "White",
+    "dob": "1981-06-18",
+    "email": "paul.white@example.com",
+    "phone": "890-123-4568"
+  },
+  {
+    "id": "22",
+    "firstName": "Quinn",
+    "lastName": "Harris",
+    "dob": "1995-07-19",
+    "email": "quinn.harris@example.com",
+    "phone": "901-234-5679"
+  },
+  {
+    "id": "23",
+    "firstName": "Rita",
+    "lastName": "Clark",
+    "dob": "1982-08-20",
+    "email": "rita.clark@example.com",
+    "phone": "012-345-6780"
+  }
+] 
